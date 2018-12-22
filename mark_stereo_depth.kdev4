@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=mark_stereo_depth

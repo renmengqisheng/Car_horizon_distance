@@ -1,0 +1,3 @@
+/home/harry/test/mark_stereo_depth/build/CMakeFiles/rebuild_cache.dir
+/home/harry/test/mark_stereo_depth/build/CMakeFiles/edit_cache.dir
+/home/harry/test/mark_stereo_depth/build/CMakeFiles/circle.dir
